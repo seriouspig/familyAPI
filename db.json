@@ -1,0 +1,19 @@
+{
+    "members": [
+        {
+            "id":0,
+            "name": "Piotr",
+            "year": 1978
+        },
+        {
+            "id":1,
+            "name": "Lukasz",
+            "year": 1976
+        },
+        {
+            "id":2,
+            "name": "Tomek",
+            "year": 1984
+        }
+    ]
+}
